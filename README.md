@@ -5,8 +5,6 @@
     - An IoT device utilizing T-Mobile 5G LTE
     - Autonomous dog robot to exercise my Old English Sheepdogs
 - 🌱 I’m currently learning robotic edge AI using NVIDIA Jetson Orin Nano
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: ...
 
 ### Contact
 <a href="mailto:Ronald.Redmer@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
